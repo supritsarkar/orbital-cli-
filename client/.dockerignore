@@ -1,0 +1,7 @@
+# frontend/.dockerignore
+node_modules
+.next
+.git
+.env.local
+Dockerfile      # ← we don't want the prod Dockerfile (if you ever add one)
+!Dockerfile.dev # ← but DO include the dev one
