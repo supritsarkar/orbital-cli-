@@ -1,1 +1,1 @@
-# orbital-cli-
+# Obsidian-cli-
